@@ -5,7 +5,7 @@
 
   "version": "1.0.0",
 
-  "description": "",
+  "description": "check_prices",
 
   "main": "index.js",
 
@@ -17,7 +17,7 @@
 
   "author": "LordGrim",
 
-  "license": "ISC",
+  "license": "ME",
 
   "dependencies": {
 
